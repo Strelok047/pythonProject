@@ -4,4 +4,3 @@ xlrd
 geopandas
 matplotlib
 pandas
-pkg_resources
