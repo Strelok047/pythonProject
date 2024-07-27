@@ -1,7 +1,7 @@
-geemap
-streamlit
+geemap==0.33.1
+streamlit==1.37.0
 xlrd
-geopandas
-matplotlib
+geopandas==1.0.1
+matplotlib==3.9.1
 pandas
 setuptools
