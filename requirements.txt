@@ -4,3 +4,4 @@ xlrd
 geopandas
 matplotlib
 pandas
+setuptools
