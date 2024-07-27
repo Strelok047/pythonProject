@@ -1,0 +1,6 @@
+geemap
+streamlit
+xlrd
+geopandas
+matplotlib
+pandas
